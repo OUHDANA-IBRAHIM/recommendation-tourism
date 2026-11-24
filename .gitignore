@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+*.py[cod]
+
+data_withOut_Outliers/DATA_without_Outliers.csv
+data_with_Outliers/DATA_with_Outliers.csv
+
